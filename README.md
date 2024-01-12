@@ -6,4 +6,4 @@ When not pushing pixels, I'm knee-deep in [Kubernetes](https://kubernetes.io) cl
 
 Whether contributing to open-source projects or tackling complex production issues, my motto is: code with purpose, deploy with confidence. 
 
-Join me on my journey exploring the ever-evolving world of [Go](https://go.dev/), [Kubernetes](https://kubernetes.io), and all things containers!
+Join me on my journey exploring the ever-evolving world of [AWS](https://aws.amazon.com/), [Go](https://go.dev/), [Kubernetes](https://kubernetes.io), and all things containers!
