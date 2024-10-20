@@ -1,6 +1,6 @@
 ### Hi there 👋🏻 My name is [Malik](https://www.malikdraz.io).
 
-I'm driven by the elegance and performance of [Go](https://go.dev/) and [Rust](https://www.rust-lang.org/), I thrive on crafting clean, and efficient code. 
+I'm driven by the elegance and performance of [Go](https://go.dev/) and [Rust](https://www.rust-lang.org/). I thrive on crafting clean, and efficient code. 
 
 When not pushing pixels, I'm knee-deep in [Kubernetes](https://kubernetes.io) clusters, orchestrating containerized chaos into streamlined solutions. I also embrace the flexibility and power of [Docker](https://www.docker.com/), always seeking innovative ways to build and deploy scalable applications. 
 
