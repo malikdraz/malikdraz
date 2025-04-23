@@ -6,7 +6,7 @@
 go run innovation.go | cargo run --release imagination.rs
 ```
 
-- **Languages I love:** Go for elegant concurrency, Rust for fearless performance, and Python for rapid AI prototyping.  
+- **Languages I love:** Go for elegant concurrency, and Rust for fearless performance.
 - **What I’m shipping:** self-healing micro-services, edge-deployed LLMs, and event-driven systems that *just keep scaling*.  
 - **Stacks I wrangle:** Kubernetes & Docker (turning container chaos into order), AWS (from Lambda to EKS), and a sprinkle of GitOps for zero-drama releases.  
 - **How I think:** first-principles, automation-first—because the best code is the one you never babysit.  
